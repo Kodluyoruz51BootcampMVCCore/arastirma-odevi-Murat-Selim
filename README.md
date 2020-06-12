@@ -1,4 +1,18 @@
-1. **Microsoft Build 2020 yenilikler:**
+1. **Solid Principles:**
+
+Solid prensipleri yazilimcilarin daha az kod yazarak, daha yenilikci ve
+surdurulebilir bir proje yapmasinin onunu acan manifestodur:
+
+2. **Microsoft Build etkinlikler:**
+
+Accelerating Developers with the Microsoft Power Platform:
+Power Apps, iş gereksinimlerinize yönelik özel uygulamalar geliştirmek için hızlı bir uygulama
+geliştirme ortamı sağlayan bir uygulama, hizmet, bağlayıcı ve veri platformu paketidir.
+
+Ask the Team: Visual Studio Code:
+Visual studio code ile ilgili bilgiler:
+
+3. **Microsoft Build 2020 yenilikler:**
 
 Süper yapay zeka bilgisayarları:
 Microsoft’un Build 2020’de yaptığı en büyük duyurulardan biri, Azure’da yer alan ve yalnızca OpenAI 
@@ -23,32 +37,17 @@ koronavirüs salgını için Microsoft da düğmeye bastı.
 Microsoft’un sağlık sektörüne özgü ilk bulut hizmeti olan Microsoft Cloud for Healthcare 
 hizmetlerin bulut tabanlı olarak kullanılmasını sağlıyor.
 
-2. **Microsoft Build etkinlikler:**
-
-Accelerating Developers with the Microsoft Power Platform:
-Power Apps, iş gereksinimlerinize yönelik özel uygulamalar geliştirmek için hızlı bir uygulama
-geliştirme ortamı sağlayan bir uygulama, hizmet, bağlayıcı ve veri platformu paketidir.
-
-Ask the Team: Visual Studio Code:
-Visual studio code ile ilgili bilgiler:
-
-3. **Devler Azure da etkinlikler:**
+4. **Devler Azure da etkinlikler:**
 
 Mustafa El-Aliwat - Business Development Director, Emre Özer - Technology Director, Enqura Azure ile Uygulama Modernizasyonu, Mikroservis mimarileri. Açık Kaynak Kod (Open Source) ışığında en iyi pratiklere sahip yazılım mimarisi.
 
 Onur Yüksektepeli - Microsoft Türkiye CSA - Community Lead MSHowto, Azure MVP, MCT
-"GitOps" - DevOps On GitHub:
+"GitOps" - DevOps On GitHub: 
 
-4. **Takip edilmesi gereken yazilimcilar:**
+5. **Takip edilmesi gereken yazilimcilar:**
 
 https://github.com/daronyondem: Daron Yondem
-https://tr.linkedin.com/in/nedimyilmaz/%7Bcountry%3Des%2C+language%3Des%7D?trk=peopl
-e-guest_profile-result-card_result-card_full-click: Nedim Yilmaz
-
-5. **Solid Principles:**
-
-Solid prensipleri yazilimcilarin daha az kod yazarak, daha yenilikci ve
-surdurulebilir bir proje yapmasinin onunu acan manifestodur:
+https://tr.linkedin.com/in/nedimyilmaz/%7Bcountry%3Des%2C+language%3Des%7D?trk=people-guest_profile-result-card_result-card_full-click: Nedim Yilmaz
 
 6. **NET Core 3.1 yenilikler:**
 
