@@ -3,6 +3,19 @@
 Solid prensipleri yazilimcilarin daha az kod yazarak, daha yenilikci ve
 surdurulebilir bir proje yapmasinin onunu acan manifestodur:
 
+**Solidin 5 tane onemli ozelliyi vardir:** 
+
+
+1- **Single-Responsibility Principle (Tek Sorumluluk Prensibi):** Bir Sınıfın ya da fonksiyonun, metodun tek bir görevi, sorumluluğu olmalıdır. Başka sınıfların görevlerini gerçekleştirmemelidir.
+
+2- **Open-Closed Principle(Açık Kapalı Prensibi):** Open-Closed prensibi kısacası bir programın, applicationun veya objelerin ya da entitylerin geliştirilmeye açık, ancak değiştirmeye kapalı olduğunu belirtir. İnterface ve abstract sınıflar kullanılarak istenen eklemeler yapılabilir.
+
+3- **Liskov Substitution Principle ( Liskov’un Yerine geçme Prensibi):** Bir ana sınıftan ya da sınıflardan türetilen sınıfların bir üst hiyerarşideki sınıfların yerine geçmesini esas alan bir prensiptir.
+
+4- **Interface Segregation Principle ( Arayüz Ayrımı Prensibi):** Bir arayüze gerekli olmayan eklentilerin eklenmemesini belirten bir prensiptir. Arayüzde o an sadece kullanılacak olan eklentilerin ekli olması gerektiğini savunur.
+
+5- **Dependency Inversion Principle ( Bağımlılıkların Terslenmesi Prensibi):** Varlıklar(Alt sınıflar ve Üst sınıflar) somut olmayan soyutlamalara bağlı olmalıdır. Üst seviye modülün düşük seviye modülüne bağlı olmamasını, ancak soyutlamalara bağlı olması gerektiğini belirtir. Alt sınıflarda yapılan değişiklikler üst sınıfları etkilememelidir.
+
 2. **Microsoft Build etkinlikler:**
 
 Accelerating Developers with the Microsoft Power Platform:
@@ -52,7 +65,7 @@ https://tr.linkedin.com/in/nedimyilmaz/%7Bcountry%3Des%2C+language%3Des%7D?trk=p
 6. **NET Core 3.1 yenilikler:**
 
 NET Core 3.1 ile ilgili en önemli yenilik, Microsoft tarafindan, uzun vadeli bir destek (LTS) sürümü
-ile desteklenmesidir:
+ile desteklenmesidir.  .NET Core 3.1, Visual Studionun 2017 ve 2019 versiyonlarinda calisiyor. Visual Studio 2019 kullanıyorsanız, .NET Core 3.1 projeleri ile çalışmak için Visual Studio 2019 16.4 surumunu ve sonraki sürümlerini güncelleştirmeniz gerekiyor. 
 
 7. **Global Game Jam (GGJ) yazilim yarismasi: 29-31 ocak 2021**
 
